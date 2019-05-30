@@ -1,0 +1,4 @@
+- name: role_ntp
+  src: https://github.com/netdevopsx/role_ntp.git
+  scm: git
+  version: master

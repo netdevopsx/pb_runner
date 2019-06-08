@@ -1,0 +1,5 @@
+Value Required Interface (\S+)
+
+Start
+  ^${lines}$$
+  ^$$-> Record

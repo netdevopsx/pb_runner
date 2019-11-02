@@ -1,4 +1,0 @@
-Value Required lines (ntp(\S|\s).+)
-
-Start
-  ^${lines}$$ -> Record
